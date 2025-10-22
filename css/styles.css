@@ -72,7 +72,7 @@ main img{
 header {
     
     grid-area: header;
-    background:#461d0b;
+    background: #355E3B;
     color: white;
     padding: 10px;
     text-align: center;
