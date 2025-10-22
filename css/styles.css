@@ -52,6 +52,7 @@ aside img{
     border: #b3b3b3 .5em solid;
 
 }
+
 main img{
     border-radius: 100% 100% 40% 40%;
     margin-right: 1rem;;
@@ -67,6 +68,12 @@ main img{
         'footer footer footer';
 
     margin: 0;
+}
+
+.herding {
+
+    float: left;
+
 }
 
 header {
