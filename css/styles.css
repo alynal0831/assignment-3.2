@@ -53,6 +53,11 @@ aside img{
 
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 main img{
     border-radius: 100% 100% 40% 40%;
     margin-right: 1rem;;
